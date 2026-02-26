@@ -2,6 +2,8 @@
 
 An AI-powered SVG generator that streams JSONL and renders it incrementally, inspired by [vercel-labs/json-render](https://github.com/vercel-labs/json-render).
 
+[中文文档](README.zh-CN.md)
+
 ## Overview
 
 **GenSVG** provides a robust, type-safe, and guardrailed system for generating SVGs using AI. Instead of letting the AI output raw, unpredictable SVG strings, this project forces the AI to output a sequence of JSON patches (JSONL) that conform to a strictly defined schema (Catalog).
