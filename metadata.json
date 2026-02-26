@@ -1,0 +1,5 @@
+{
+  "name": "GenSVG",
+  "description": "An AI-powered SVG generator that streams JSONL and renders it incrementally, inspired by vercel-labs/json-render.",
+  "requestFramePermissions": []
+}
